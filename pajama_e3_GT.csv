@@ -1,0 +1,1296 @@
+1,299,382,"송지효,조이,성소",
+2,383,500,,"stop sign,frisbee"
+3,501,713,,"stop sign,refrigerator,skateboard,couch,tie,cup,frisbee"
+4,714,810,,"chair,couch,handbag"
+5,811,1514,장윤주,"pizza,couch,stop sign,donut,remote,bowl,fork,cup,book"
+6,1515,1979,장윤주,"couch,suitcase,handbag,donut,chair,tie,mouse,pizza,cat"
+7,1980,2023,,stop sign
+8,2024,2300,장윤주,"bed,couch,suitcase,sink"
+9,2301,2490,장윤주,"bed,couch,backpack,handbag"
+10,2491,2607,장윤주,"suitcase,couch"
+11,2608,2893,장윤주,"suitcase,couch,tie,chair,cat"
+12,2894,3319,장윤주,"laptop,chair,remote,tie,stop sign,cup,refrigerator,dining table"
+13,3320,3670,장윤주,"stop sign,laptop,tv,chair,remote,handbag"
+14,3671,3908,장윤주,"stop sign,chair,tie,refrigerator,potted plant"
+15,3909,3943,,stop sign
+16,3944,4242,장윤주,"chair,refrigerator,potted plant,tie,stop sign"
+17,4243,4413,장윤주,chair
+18,4414,4617,장윤주,"bowl,cell phone,potted plant,stop sign"
+19,4618,5272,장윤주,"chair,handbag,cell phone,cup,potted plant,stop sign,refrigerator"
+20,5273,5853,성소,refrigerator
+21,5854,5949,송지효,"chair,couch,dining table,stop sign"
+22,5950,6030,장윤주,"toothbrush,stop sign"
+23,6031,6675,성소,"remote,refrigerator,cup"
+24,6676,6806,조이,"toothbrush,stop sign"
+25,6807,6953,조이,
+26,6954,7110,조이,
+27,7111,7464,조이,
+28,7465,7596,,"stop sign,suitcase,toothbrush"
+29,7597,7830,,"airplane,tennis racket,stop sign,suitcase,toothbrush,orange,umbrella"
+30,7831,7929,,"bottle,car"
+31,7930,7967,조이,
+32,7968,8039,조이,remote
+33,8040,8094,,"stop sign,suitcase"
+34,8095,8195,,"bottle,donut,suitcase"
+35,8196,8435,조이,
+36,8436,8728,송지효,"refrigerator,toilet,sports ball"
+37,8729,9005,송지효,"bed,stop sign"
+38,9006,9432,송지효,"refrigerator,cell phone,bus"
+39,9433,9510,송지효,"knife,handbag,stop sign"
+40,9511,9572,"장윤주,송지효,조이,성소","couch,donut,bottle,potted plant,chair,vase"
+41,9573,9659,,"tv,bed,vase"
+42,9660,9736,송지효,vase
+43,9737,10045,송지효,"stop sign,remote,motorcycle,cell phone,sports ball,knife"
+44,10046,10159,,"sports ball,tv"
+45,10160,10523,송지효,"toilet,remote,refrigerator,stop sign,skateboard,cell phone,chair"
+46,10524,10579,"장윤주,송지효,조이,성소",scissors
+47,10580,10613,"장윤주,송지효,조이,성소",stop sign
+48,10614,10635,"장윤주,송지효,조이,성소","stop sign,frisbee"
+49,10636,10651,"장윤주,송지효,조이,성소",bird
+50,10652,10669,"장윤주,송지효,조이,성소","stop sign,sports ball,bird"
+51,10670,10702,"장윤주,송지효,조이,성소","cake,bowl,dining table,handbag,stop sign,bottle"
+52,10703,10756,송지효,stop sign
+53,10757,10785,,"train,stop sign"
+54,10786,10814,"장윤주,조이",
+55,10815,10875,"장윤주,송지효,조이,성소",bottle
+56,10876,10913,,"bottle,cup"
+57,10914,10943,"장윤주,성소",stop sign
+58,10944,10976,"장윤주,송지효,조이,성소","suitcase,potted plant,tv,cake"
+59,10977,11000,조이,"stop sign,remote"
+60,11001,11039,성소,chair
+61,11040,11069,송지효,
+62,11070,11104,장윤주,bench
+63,11105,11176,"장윤주,송지효,조이,성소","umbrella,bed"
+64,11177,11318,,stop sign
+65,11319,11397,,"mouse,bottle,bowl"
+66,11398,11413,,
+67,11414,11434,,"chair,cup"
+68,11435,11451,,refrigerator
+69,11452,11487,,
+70,11488,11563,,
+71,11564,11703,장윤주,"chair,vase,cup,potted plant,dining table,cake,sink,mouse,tennis racket"
+72,11704,11745,장윤주,potted plant
+73,11746,11830,,"cake,cell phone,potted plant,dining table,stop sign"
+74,11831,12089,장윤주,"cup,stop sign,dining table,potted plant,chair"
+75,12090,12244,,"laptop,cell phone,bottle"
+76,12245,12290,장윤주,"chair,potted plant,cell phone,vase"
+77,12291,12373,,cell phone
+78,12374,12439,장윤주,stop sign
+79,12440,12564,장윤주,"chair,cell phone,potted plant"
+80,12565,12676,,"laptop,cell phone,stop sign"
+81,12677,12756,장윤주,"cell phone,bottle"
+82,12757,12822,장윤주,"chair,vase,cup,potted plant,dining table,cake"
+83,12823,12885,송지효,sink
+84,12886,12927,장윤주,stop sign
+85,12928,13069,송지효,stop sign
+86,13070,13125,장윤주,"chair,potted plant"
+87,13126,13206,송지효,"bottle,cup"
+88,13207,13271,장윤주,"chair,sink,potted plant,cup,couch"
+89,13272,13350,"장윤주,송지효","cup,stop sign,dining table,potted plant,chair,bottle"
+90,13351,13414,장윤주,"potted plant,chair,cup"
+91,13415,13481,송지효,"cup,cell phone"
+92,13482,13564,송지효,"stop sign,chair,cell phone"
+93,13565,13639,장윤주,"stop sign,suitcase"
+94,13640,13685,장윤주,laptop
+95,13686,13783,장윤주,
+96,13784,13838,"장윤주,송지효,조이,성소","book,dining table,vase,couch,cell phone"
+97,13839,13908,"조이,성소",chair
+98,13909,13983,"장윤주,송지효,조이,성소","dining table,couch,vase,book"
+99,13984,14079,장윤주,"cup,chair,potted plant"
+100,14080,14163,송지효,cup
+101,14164,14252,"장윤주,송지효","cup,stop sign,suitcase,potted plant,chair,refrigerator,dining table"
+102,14253,14362,조이,stop sign
+103,14363,14432,장윤주,potted plant
+104,14433,14532,성소,"chair,handbag"
+105,14533,14600,송지효,"stop sign,cup,chair"
+106,14601,14692,"장윤주,조이,성소","stop sign,chair,cup,dining table,bottle,potted plant,handbag,baseball bat"
+107,14693,14769,"장윤주,성소","stop sign,cup,chair,potted plant,vase"
+108,14770,14850,조이,"stop sign,chair,cup"
+109,14851,14936,"장윤주,송지효,조이,","dining table,stop sign,bottle,potted plant,handbag,chair,cup"
+110,14937,15003,"장윤주,성소","handbag,chair,cup,potted plant"
+111,15004,15079,송지효,cup
+112,15080,15152,"장윤주,송지효,조이,성소","dining table,cup,potted plant"
+113,15153,15263,"장윤주,성소","cup,sink,chair,bottle"
+114,15264,15315,조이,"traffic light,stop sign,bottle,cup"
+115,15316,15385,"장윤주,성소","handbag,cup,potted plant,chair"
+116,15386,15432,송지효,"stop sign,chair,cup"
+117,15433,15498,조이,"chair,cup,dining table"
+118,15499,15553,"장윤주,성소조이","chair,potted plant,cell phone,stop sign"
+119,15554,15701,,"car,stop sign,fire hydrant,bench,traffic light"
+120,15702,15775,"장윤주,송지효","chair,remote"
+121,15776,15854,"장윤주,송지효",handbag
+122,15855,15925,"장윤주,송지효","handbag,stop sign"
+123,15926,16017,"장윤주,송지효","chair,remote"
+124,16018,16096,"조이,성소",car
+125,16097,16197,"장윤주,송지효",handbag
+126,16198,16323,,"chair,bed,couch,stop sign,bottle"
+127,16324,16400,,bed
+128,16401,16508,"장윤주,송지효","stop sign,bed"
+129,16509,16602,"조이,성소","motorcycle,car"
+130,16603,16694,"장윤주,송지효","tie,chair"
+131,16695,16779,"조이,성소","chair,car,motorcycle"
+132,16780,16816,성소,bed
+133,16817,16849,"조이,성소",bed
+134,16850,16915,,"bed,teddy bear"
+135,16916,17087,"장윤주,송지효",couch
+136,17088,17186,"장윤주,송지효","handbag,chair,stop sign"
+137,17187,17290,"장윤주,송지효","stop sign,handbag"
+138,17291,17369,"장윤주,송지효",cell phone
+139,17370,17490,"장윤주,송지효","handbag,cell phone"
+140,17491,17536,"조이,성소","car,chair"
+141,17537,17684,,"stop sign,car"
+142,17685,17815,"장윤주,송지효",handbag
+143,17816,17963,,"stop sign,truck,train,car"
+144,17964,18100,,"stop sign,bench"
+145,18101,18176,"조이,성소",mouse
+146,18177,18275,송지효,handbag
+147,18276,18408,,"car,fire hydrant,stop sign,potted plant,bench,boat"
+148,18409,18524,,"fire hydrant,potted plant"
+149,18525,18598,"장윤주,송지효",handbag
+150,18599,18738,,"stop sign,car,potted plant,parking meter,broccoli"
+151,18739,18831,장윤주,teddy bear
+152,18832,18912,송지효,"stop sign,car"
+153,18913,19118,장윤주,"car,stop sign,scissors,handbag,tennis racket"
+154,19119,19288,,"laptop,hot dog,carrot,tv,bench,stop sign,keyboard"
+155,19289,19404,,"stop sign,chair"
+156,19405,19490,,"traffic light,stop sign,bench"
+157,19491,19510,,stop sign
+158,19511,19539,,"stop sign,airplane"
+159,19540,19558,,
+160,19559,19589,,knife
+161,19590,19679,,stop sign
+162,19680,19754,,"bird,stop sign"
+163,19755,19919,,"car,traffic light,stop sign,bottle,potted plant,vase,bowl"
+164,19920,20028,,"handbag,vase,potted plant"
+165,20029,20229,"장윤주,송지효,조이,성소",stop sign
+166,20230,20377,"장윤주,송지효,조이,성소","potted plant,handbag,couch,stop sign,sink"
+167,20378,20518,,"stop sign,book,chair,couch,potted plant"
+168,20519,20704,,"stop sign,toothbrush,clock,bird,umbrella"
+169,20705,20767,,cake
+170,20768,20845,,"couch,stop sign,chair,potted plant"
+171,20846,20997,,"microwave,stop sign,laptop,book"
+172,20998,21121,"장윤주,송지효,조이,성소","stop sign,handbag,potted plant,vase,chair,cup,couch"
+173,21122,21296,"장윤주,송지효,조이,성소","handbag,dining table,spoon"
+174,21297,21397,"장윤주,송지효,조이,성소","chair,donut"
+175,21398,21521,"장윤주,송지효,조이,성소","dining table,stop sign,microwave,handbag,chair,potted plant"
+176,21522,21646,"장윤주,송지효,조이,성소",tie
+177,21647,21775,"장윤주,송지효,조이,성소","handbag,chair,bird,stop sign,cell phone,potted plant"
+178,21776,21881,"장윤주,송지효,성소","stop sign,cell phone"
+179,21882,21979,"장윤주,송지효,조이,성소",
+180,21980,22234,"장윤주,송지효,조이,성소","handbag,chair,potted plant,vase,stop sign,cell phone"
+181,22235,22377,"장윤주,송지효,조이,성소",handbag
+182,22378,22495,"장윤주,송지효,성소",cell phone
+183,22496,22586,"장윤주,송지효,조이,성소","handbag,stop sign,chair,dining table,cell phone"
+184,22587,22682,"장윤주,송지효,조이,",
+185,22683,22806,"장윤주,송지효,조이,성소","handbag,stop sign,chair,dining table,cell phone,bottle"
+186,22807,22888,"장윤주,송지효,조이,성소","stop sign,cell phone,tie"
+187,22889,22994,"장윤주,송지효,조이,성소",
+188,22995,23080,"장윤주,송지효,조이,성소","handbag,stop sign,laptop,potted plant,dining table"
+189,23081,23150,"장윤주,송지효,조이,성소",stop sign
+190,23151,23223,장윤주,book
+191,23224,23272,"장윤주,송지효","potted plant,mouse"
+192,23273,23376,"장윤주,송지효,조이,성소","handbag,stop sign,laptop"
+193,23377,23414,장윤주,
+194,23415,23520,"장윤주,송지효,조이,성소","stop sign,laptop,bottle,chair,potted plant,handbag"
+195,23521,23573,"장윤주,송지효,성소",
+196,23574,23638,"장윤주,송지효,조이,성소","stop sign,chair,laptop,cup,potted plant"
+197,23639,23729,,dining table
+198,23730,23849,"장윤주,송지효,조이,성소","stop sign,laptop,remote,book,potted plant,handbag,chair,dining table"
+199,23850,23944,,stop sign
+200,23945,24081,"장윤주,송지효,조이,성소","handbag,stop sign,sports ball"
+201,24082,24269,,
+202,24270,24430,"장윤주,송지효,성소","handbag,bottle,potted plant"
+203,24431,24506,,"frisbee,umbrella,surfboard"
+204,24507,24571,,"stop sign,chair,knife"
+205,24572,24680,,"stop sign,parking meter,bench,frisbee,vase"
+206,24681,24749,"장윤주,송지효,조이","potted plant,handbag"
+207,24750,24856,,"stop sign,cup"
+208,24857,24933,,"handbag,stop sign,car"
+209,24934,25006,,book
+210,25007,25104,,"stop sign,vase,fire hydrant"
+211,25105,25369,"장윤주,송지효,조이,성소","stop sign,handbag,bench"
+212,25370,25485,,
+213,25486,25634,"장윤주,송지효,성소","stop sign,handbag"
+214,25635,25712,,stop sign
+215,25713,25791,,"chair,book"
+216,25792,25992,"송지효,조이,성소","stop sign,cup"
+217,25993,26113,,"stop sign,chair,boat,bench"
+218,26114,26283,"장윤주,송지효,조이,성소",handbag
+219,26284,26365,,"stop sign,bench,car,truck"
+220,26366,26451,,"stop sign,potted plant"
+221,26452,26516,,stop sign
+222,26517,26619,,"stop sign,car,train"
+223,26620,26784,"장윤주,송지효,조이,성소","handbag,stop sign"
+224,26785,26940,"장윤주,송지효,조이,성소","stop sign,chair"
+225,26941,27193,,"giraffe,stop sign"
+226,27194,27388,"장윤주,송지효,조이,성소","stop sign,baseball bat,potted plant"
+227,27389,27579,,donut
+228,27580,27676,"장윤주,조이",stop sign
+229,27677,27823,"장윤주,조이",handbag
+230,27824,27972,,"bench,potted plant,stop sign"
+231,27973,28156,,"apple,stop sign,giraffe"
+232,28157,28318,,"chair,stop sign"
+233,28319,28406,,stop sign
+234,28407,28475,,stop sign
+235,28476,28543,,"bird,stop sign,bench"
+236,28544,28715,,"stop sign,potted plant,train,umbrella"
+237,28716,28860,"장윤주,송지효,조이,성소","handbag,stop sign,remote"
+238,28861,28908,,"handbag,stop sign,parking meter,potted plant"
+239,28909,28974,"장윤주,송지효,조이,성소",handbag
+240,28975,29131,,"stop sign,chair,car"
+241,29132,29223,,stop sign
+242,29224,29305,"송지효,","tie,stop sign,remote"
+243,29306,29450,"장윤주,송지효","stop sign,chair"
+244,29451,29576,"장윤주,송지효","handbag,stop sign"
+245,29577,29755,,"chair,stop sign,couch,potted plant,clock,microwave,vase"
+246,29756,29877,,bench
+247,29878,30002,,car
+248,30003,30105,,"laptop,potted plant,bed,chair,remote"
+249,30106,30169,성소,"stop sign,potted plant"
+250,30170,30205,,stop sign
+251,30206,30239,,
+252,30240,30271,,stop sign
+253,30272,30339,,stop sign
+254,30340,30452,성소,
+255,30453,30547,,"stop sign,couch"
+256,30548,30610,"장윤주,조이,성소","stop sign,chair"
+257,30611,30680,"장윤주,조이,성소","chair,bed"
+258,30681,30805,,"bird,stop sign,bed,chair"
+259,30806,30911,,stop sign
+260,30912,30971,"장윤주,송지효","stop sign,bed,chair"
+261,30972,31139,,
+262,31140,31278,"장윤주,송지효,성소","stop sign,chair,bed,handbag"
+263,31279,31391,조이,"stop sign,bird"
+264,31392,31463,,"bed,handbag,stop sign,chair"
+265,31464,31575,"조이,성소","handbag,stop sign,couch,vase,bottle,potted plant"
+266,31576,31732,,"laptop,bed,potted plant,chair,remote,vase,dining table,couch"
+267,31733,31859,,"bed,stop sign,cup"
+268,31860,31997,,bird
+269,31998,32113,,"stop sign,giraffe"
+270,32114,32166,성소,"fork,tie"
+271,32167,32284,장윤주,"potted plant,vase"
+272,32285,32359,"송지효,조이,성소",bed
+273,32360,32404,"장윤주,송지효,조이","stop sign,chair"
+274,32405,32520,,"stop sign,potted plant"
+275,32521,32632,"조이,성소","bed,potted plant"
+276,32633,32734,,"chair,potted plant"
+277,32735,32844,,"stop sign,snowboard,knife"
+278,32845,32955,,"airplane,vase,stop sign,cake"
+279,32956,33369,"장윤주,송지효","remote,stop sign,mouse,spoon,handbag,knife,clock"
+280,33370,33442,송지효,"stop sign,tennis racket"
+281,33443,33510,"장윤주,조이","stop sign,handbag"
+282,33511,33605,,
+283,33606,33757,,stop sign
+284,33758,33901,,vase
+285,33902,34068,,
+286,34069,34236,"장윤주,송지효,조이,성소","remote,stop sign"
+287,34237,34315,"조이,성소","stop sign,traffic light,tie"
+288,34316,34413,,"stop sign,mouse,car"
+289,34414,34507,,"stop sign,giraffe,bench"
+290,34508,34629,,"stop sign,giraffe,chair,cow,bicycle"
+291,34630,34798,장윤주,"stop sign,handbag,clock,boat,airplane"
+292,34799,34917,장윤주,"bench,stop sign,cell phone"
+293,34918,35110,"장윤주,조이,성소","stop sign,handbag,bench,traffic light"
+294,35111,35323,"송지효,조이,성소",bench
+295,35324,35413,,cow
+296,35414,35497,"송지효,성소","handbag,chair,remote,stop sign"
+297,35498,35644,,"hair drier,bowl"
+298,35645,35734,조이,chair
+299,35735,35838,,"knife,frisbee,bowl,donut,dining table,stop sign"
+300,35839,35961,,"donut,bowl,spoon"
+301,35962,36005,"장윤주,조이,성소",
+302,36006,36100,"장윤주,성소",
+303,36101,36189,"장윤주,송지효,조이,성소","handbag,couch,bowl,dining table,cup"
+304,36190,36287,"장윤주,송지효,조이,성소","stop sign,chair,cup,dining table"
+305,36288,36372,"장윤주,조이,성소","chair,remote"
+306,36373,36442,"장윤주,송지효,조이,성소","bowl,remote,chair,spoon"
+307,36443,36575,"장윤주,조이,","remote,cup"
+308,36576,36635,송지효,bowl
+309,36636,36743,"장윤주,성소",tie
+310,36744,36823,"장윤주,조이","spoon,fork"
+311,36824,36968,"장윤주,송지효,조이,성소","book,bowl"
+312,36969,37066,"장윤주,송지효","elephant,stop sign"
+313,37067,37223,"장윤주,송지효,조이,성소","chair,stop sign,knife"
+314,37224,37305,"장윤주,송지효,성소",dining table
+315,37306,37360,조이,
+316,37361,37410,"조이,성소",
+317,37411,37498,장윤주,"book,chair"
+318,37499,37565,"장윤주,송지효,조이,성소","couch,chair"
+319,37566,37634,"장윤주,성소",
+320,37635,37684,"조이,성소",
+321,37685,37751,,"book,suitcase,bed"
+322,37752,37865,"장윤주,송지효","chair,book"
+323,37866,37913,,knife
+324,37914,38002,"장윤주,송지효,조이,성소","chair,book,stop sign"
+325,38003,38061,"장윤주,송지효,","chair,remote"
+326,38062,38154,"장윤주,송지효,조이,성소","book,bowl,remote,oven,umbrella"
+327,38155,38228,"조이,성소",
+328,38229,38300,"장윤주,송지효,조이,성소","book,umbrella"
+329,38301,38365,"조이,성소",
+330,38366,38520,장윤주,
+331,38521,38590,"조이,성소",
+332,38591,38753,"장윤주,송지효,조이,성소","book,umbrella,bottle,stop sign"
+333,38754,38888,장윤주,
+334,38889,38959,"조이,성소",
+335,38960,39073,"장윤주,조이,성소","donut,tie"
+336,39074,39149,"장윤주,송지효,조이,성소","stop sign,book,couch,chair"
+337,39150,39249,"장윤주,성소",
+338,39250,39331,,book
+339,39332,39408,"장윤주,송지효","chair,couch,stop sign,remote,laptop"
+340,39409,39605,"장윤주,성소",laptop
+341,39606,39673,"장윤주,송지효,조이,성소","chair,laptop,remote,book"
+342,39674,39736,장윤주,"stop sign,remote"
+343,39737,39802,"장윤주,송지효","vase,stop sign"
+344,39803,39930,"장윤주,송지효,조이,성소","laptop,book,remote,cake,chair"
+345,39931,40042,"장윤주,송지효,조이,성소","laptop,book"
+346,40043,40105,"장윤주,송지효",
+347,40106,40182,,"bird,cup"
+348,40183,40266,"장윤주,조이,성소",laptop
+349,40267,40345,"조이,성소","laptop,stop sign"
+350,40346,40435,"장윤주,송지효,조이,성소",laptop
+351,40436,40557,"조이,성소","tie,chair,laptop,book,bowl"
+352,40558,40624,성소,"laptop,cup"
+353,40625,40672,"장윤주,송지효,조이,성소","book,laptop"
+354,40673,40738,장윤주,
+355,40739,40829,"장윤주,송지효,조이,성소","stop sign,book,chair"
+356,40830,40911,"장윤주,송지효,",
+357,40912,41018,"장윤주,성소","laptop,toothbrush"
+358,41019,41148,송지효,"chair,suitcase,cake,stop sign"
+359,41149,41194,"장윤주,성소",
+360,41195,41252,성소,"chair,cell phone"
+361,41253,41320,"장윤주,송지효,조이,성소","suitcase,chair,bowl"
+362,41321,41380,"장윤주,성소",
+363,41381,41455,"장윤주,조이,성소",chair
+364,41456,41527,"장윤주,송지효,조이,성소","bowl,suitcase,chair,surfboard"
+365,41528,41599,,"suitcase,book,tie"
+366,41600,41711,송지효,"chair,remote"
+367,41712,41770,"장윤주,송지효,조이,성소",
+368,41771,41839,"장윤주,성소",
+369,41840,41910,"장윤주,성소",handbag
+370,41911,41937,"장윤주,조이,성소",book
+371,41938,41983,"조이,성소","chair,toothbrush"
+372,41984,42057,"장윤주,송지효,조이,성소","stop sign,suitcase,chair,bowl"
+373,42058,42100,장윤주,"remote,bottle"
+374,42101,42203,"장윤주,송지효,조이,성소","stop sign,surfboard,bottle"
+375,42204,42252,"장윤주,성소",spoon
+376,42253,42302,"조이,성소",tie
+377,42303,42362,"장윤주,송지효,조이,성소","remote,cup"
+378,42363,42449,송지효,"cup,chair,bottle,wine glass,hair drier"
+379,42450,42531,"장윤주,송지효,조이,성소",bottle
+380,42532,42629,,"bottle,cell phone,bed,wine glass"
+381,42630,42683,송지효,"cup,bench,apple,chair"
+382,42684,42734,"조이,성소",chair
+383,42735,42853,송지효,"chair,cup,bottle,stop sign,bench,cell phone,dining table"
+384,42854,42975,"장윤주,송지효,조이,성소","wine glass,book,bottle"
+385,42976,43081,"장윤주,조이,성소","chair,cup"
+386,43082,43126,"장윤주,조이,",
+387,43127,43180,장윤주,bench
+388,43181,43215,"장윤주,송지효,조이,성소","handbag,potted plant,bottle,tv"
+389,43216,43264,"송지효,성소",
+390,43265,43321,장윤주,
+391,43322,43406,"송지효,성소",
+392,43407,43502,,"clock,suitcase,bed,toothbrush"
+393,43503,43574,"장윤주,성소",
+394,43575,43676,조이,"fork,cake,laptop,stop sign,horse,vase,book"
+395,43677,43743,송지효,cell phone
+396,43744,43812,"장윤주,조이,성소",cell phone
+397,43813,43898,조이,"tv,stop sign,bottle,dining table,cup,remote"
+398,43899,43960,"장윤주,송지효,조이,성소","book,remote,cup,stop sign"
+399,43961,44084,"조이,성소","bottle,cup"
+400,44085,44193,"장윤주,송지효,성소","tie,donut,remote,cell phone,bottle"
+401,44194,44286,송지효,
+402,44287,44424,조이,"potted plant,dining table,bottle,vase,cup,tie,bowl"
+403,44425,44546,,"bed,cake,stop sign,bowl,bottle,cup,umbrella,tie"
+404,44547,44660,"장윤주,송지효,성소","book,bottle,cell phone,remote"
+405,44661,44733,조이,"potted plant,vase,apple,remote"
+406,44734,44845,송지효,
+407,44846,44974,"장윤주,조이,성소","stop sign,bottle,bus,tv"
+408,44975,45097,"장윤주,조이,성소","cat,stop sign"
+409,45098,45207,"장윤주,조이,성소","cake,tv,bottle,stop sign,bus,potted plant,handbag"
+410,45208,25284,"장윤주,성소",
+411,25285,45323,조이,"stop sign,handbag,chair,book,cup,boat,bench,car,truck,potted plant,train,giraffe,baseball bat,donut,apple,bird,umbrella,remote,parking meter,tie,couch,clock,microwave,vase,laptop,bed,bottle,dining table,fork,snowboard,knife,airplane,cake,mouse,spoon,tennis racket,traffic light,cow,bicycle,cell phone,hair drier,bowl,frisbee,elephant,suitcase,oven,toothbrush,surfboard,wine glass,tv,horse,bus,cat"
+412,45324,45374,"장윤주,성소",stop sign
+413,45375,45456,송지효,"chair,sports ball,tv"
+414,45457,45518,장윤주,
+415,45519,45572,성소,stop sign
+416,45573,45647,"장윤주,조이,성소","umbrella,remote,bird"
+417,45648,45704,"장윤주,조이,성소",dog
+418,45705,45793,,suitcase
+419,45794,45858,성소,"tv,remote,bottle"
+420,45859,45926,"장윤주,조이",stop sign
+421,45927,45983,"장윤주,송지효",tie
+422,45984,46113,성소,"tv,bird,skateboard,cup,remote"
+423,46114,46221,,"book,cake"
+424,46222,46325,"장윤주,송지효,조이,성소","potted plant,bottle,microwave"
+425,46326,46380,"장윤주,조이",
+426,46381,46481,성소,"book,handbag"
+427,46482,46549,조이,"chair,tie"
+428,46550,46636,"장윤주,송지효,조이,성소","handbag,chair,book"
+429,46637,46696,조이,handbag
+430,46697,46857,"송지효,성소",handbag
+431,46858,46924,"장윤주,송지효,조이,","chair,book,cup"
+432,46925,47035,"장윤주,송지효,조이,성소","stop sign,book"
+433,47036,47142,성소,"cup,stop sign,vase,bottle,potted plant,cell phone,dining table"
+434,47143,47254,"장윤주,송지효,조이,성소","bottle,sink,car,potted plant,tv"
+435,47255,47346,,"stop sign,book,bed"
+436,47347,47426,조이,"handbag,stop sign"
+437,47427,47604,"장윤주,조이,성소","surfboard,stop sign"
+438,47605,47684,조이,"toothbrush,stop sign,cup,clock"
+439,47685,47824,조이,bed
+440,47825,47963,"조이,성소","tv,sink,bed,stop sign"
+441,47964,48057,조이,bed
+442,48058,48131,"조이,성소","tv,bed,sink"
+443,48132,48228,"장윤주,조이,성소","tv,stop sign"
+444,48229,48387,"조이,성소",surfboard
+445,48388,48479,"송지효,성소","stop sign,cell phone,tie"
+446,48480,48562,"장윤주,조이,성소","bed,stop sign,bottle,remote"
+447,48563,48673,"장윤주,송지효,조이","cell phone,remote"
+448,48674,48841,"장윤주,송지효,조이","stop sign,couch,potted plant,cup"
+449,48842,48934,"송지효,성소",stop sign
+450,48935,49014,"장윤주,송지효,조이","stop sign,dining table"
+451,49015,49075,,"suitcase,bottle,cup"
+452,49076,49160,"장윤주,송지효,조이","cup,dining table,remote,bottle"
+453,49161,49235,"장윤주,송지효,","chair,book,remote"
+454,49236,49304,"장윤주,송지효,성소",book
+455,49305,49391,송지효,stop sign
+456,49392,49482,송지효,stop sign
+457,49483,49613,송지효,stop sign
+458,49614,49694,"장윤주,송지효,조이,성소","suitcase,chair"
+459,49695,49753,"장윤주,송지효,성소",
+460,49754,49884,"장윤주,송지효,조이,성소","cup,chair"
+461,49885,49963,송지효,"bottle,refrigerator,couch,chair,toothbrush"
+462,49964,50022,"장윤주,조이,성소",toothbrush
+463,50023,50119,"장윤주,송지효,조이,성소","stop sign,dining table,bottle"
+464,50120,50202,송지효,"handbag,fire hydrant,chair,stop sign"
+465,50203,50296,"장윤주,송지효,조이,성소","handbag,stop sign,cup,bottle"
+466,50297,50407,"조이,성소","wine glass,refrigerator"
+467,50408,50464,송지효,"handbag,chair"
+468,50465,50531,"장윤주,성소",stop sign
+469,50532,50601,"장윤주,송지효,조이,성소","bottle,dining table,couch,handbag"
+470,50602,50651,,cake
+471,50652,50767,"장윤주,조이,성소",stop sign
+472,50768,50836,,"stop sign,cake"
+473,50837,50907,"장윤주,성소",stop sign
+474,50908,50981,,"bowl,cake"
+475,50982,51069,장윤주,
+476,51070,51180,"장윤주,송지효,조이,성소","dining table,vase,couch,teddy bear,bird"
+477,51181,51228,"장윤주,송지효,조이,성소","chair,bottle,suitcase,cup"
+478,51229,51371,"장윤주,송지효,",
+479,51372,51533,,"book,cake,cup"
+480,51534,51610,"장윤주,송지효,조이,성소",umbrella
+481,51611,51708,,"cake,cup,remote"
+482,51709,51819,"송지효,성소","handbag,fire hydrant,couch,bottle,stop sign"
+483,51820,51930,,"cake,cup,dining table"
+484,51931,52010,"장윤주,송지효,조이,성소","dining table,bottle"
+485,52011,52076,"장윤주,송지효,조이,성소",
+486,52077,52305,"장윤주,송지효,조이,성소","chair,dining table,cake,bottle"
+487,52306,52356,"장윤주,송지효,조이,성소","chair,stop sign,bottle,bed,fire hydrant"
+488,52357,52404,송지효,tie
+489,52405,52463,"장윤주,송지효,조이,성소",
+490,52464,52505,"장윤주,송지효,성소",stop sign
+491,52506,52550,조이,
+492,52551,52615,"장윤주,송지효,조이,성소","umbrella,bottle,dining table,chair"
+493,52616,52797,장윤주,handbag
+494,52798,52841,,"book,cup"
+495,52842,52895,"장윤주,송지효,성소",stop sign
+496,52896,52935,"조이,성소",
+497,52936,52948,"장윤주,",
+498,52949,52964,,
+499,52965,52979,성소,
+500,52980,53101,,"cup,dining table,parking meter,stop sign"
+501,53102,53258,"장윤주,송지효,조이,성소","stop sign,bed"
+502,53259,53342,"조이,성소","stop sign,refrigerator"
+503,53343,53497,"장윤주,송지효,조이,성소","stop sign,chair"
+504,53498,53605,"송지효,조이","chair,stop sign"
+505,53606,53679,"장윤주,송지효,조이,성소","chair,dining table,cell phone"
+506,53680,53750,"조이,성소",chair
+507,53751,53837,"장윤주,송지효,조이,성소","chair,handbag"
+508,53838,53967,"장윤주,송지효,조이,성소","couch,sink,dining table,bowl,bottle,tie"
+509,53968,54085,"송지효,",stop sign
+510,54086,54140,"장윤주,송지효,조이,성소","stop sign,chair"
+511,54141,54191,"조이,",chair
+512,54192,54341,송지효,stop sign
+513,54342,54390,"조이,성소",chair
+514,54391,54457,"장윤주,송지효,조이,성소","stop sign,chair"
+515,54458,54546,"조이,성소","refrigerator,chair"
+516,54547,54627,"장윤주,송지효,조이,성소","chair,bed,stop sign"
+517,54628,54723,"장윤주,조이,성소",
+518,54724,54855,"장윤주,송지효,",stop sign
+519,54856,54997,"장윤주,송지효,조이,성소","stop sign,chair,bottle,dining table"
+520,54998,55065,"장윤주,송지효,조이,성소","couch,suitcase,potted plant"
+521,55066,55199,"장윤주,조이,성소","stop sign,chair,dining table"
+522,55200,55240,"장윤주,송지효",
+523,55241,55375,"장윤주,송지효,조이,성소","stop sign,chair,dining table,bottle"
+524,55376,55517,"장윤주,성소",
+525,55518,55612,"장윤주,송지효,조이,성소","stop sign,chair,bottle"
+526,55613,55771,,"stop sign,boat"
+527,55772,55854,,
+528,55855,56228,"장윤주,조이","scissors,clock,remote,car,stop sign,traffic light"
+529,56229,56278,"장윤주,조이","sports ball,stop sign"
+530,56279,56325,"송지효,조이",apple
+531,56326,56389,"장윤주,송지효,조이,성소",stop sign
+532,56390,56478,"장윤주,조이,성소","stop sign,book"
+533,56479,56527,"송지효,조이,성소",
+534,56528,56590,조이,stop sign
+535,56591,56720,"장윤주,성소",stop sign
+536,56721,56752,"송지효,조이",
+537,56753,56788,"조이,성소",
+538,56789,56935,"장윤주,송지효,조이,성소","stop sign,handbag"
+539,56936,56985,"장윤주,송지효,조이,성소",
+540,56986,57030,"장윤주,송지효,조이,성소",
+541,57031,57075,"장윤주,송지효,조이,성소",
+542,57076,57115,"장윤주,송지효,조이,성소",
+543,57116,57124,"장윤주,송지효,조이,성소",stop sign
+544,57125,57134,,stop sign
+545,57135,57171,장윤주,stop sign
+546,57172,57207,"장윤주,송지효,조이,성소",stop sign
+547,57208,57215,,
+548,57216,57259,"장윤주,송지효,조이,성소","stop sign,chair"
+549,57260,57356,"장윤주,성소",stop sign
+550,57357,57502,"장윤주,송지효,조이,성소","stop sign,chair,umbrella,banana,tie"
+551,57503,57570,,stop sign
+552,57571,57632,"장윤주,송지효,조이,성소",
+553,57633,57707,송지효,
+554,57708,57809,"장윤주,송지효,","remote,potted plant"
+555,57810,58000,"장윤주,송지효,조이,성소",stop sign
+556,58001,58044,"장윤주,송지효,조이,성소",remote
+557,58045,58082,"장윤주,송지효",stop sign
+558,58083,58196,"장윤주,송지효,조이,성소","traffic light,kite"
+559,58197,58237,성소,potted plant
+560,58238,58541,"장윤주,송지효,조이,성소","stop sign,bowl"
+561,58542,58599,성소,
+562,58600,58663,"장윤주,송지효,조이,성소","stop sign,giraffe,potted plant"
+563,58664,58720,"조이,성소","cow,stop sign"
+564,58721,58793,"장윤주,송지효,조이,성소",stop sign
+565,58794,58883,"장윤주,송지효,조이,성소",tv
+566,58884,58944,"장윤주,송지효,조이,성소",stop sign
+567,58945,59031,"장윤주,송지효,조이,성소",
+568,59032,59067,"장윤주,송지효",stop sign
+569,59068,59131,"장윤주,송지효","sports ball,stop sign"
+570,59132,59220,"조이,성소","potted plant,toothbrush,car"
+571,59221,59312,"장윤주,송지효,조이,성소",
+572,59313,59395,"장윤주,송지효,조이,성소",
+573,59396,59445,성소,"broccoli,potted plant"
+574,59446,59509,"장윤주,송지효,조이,성소",stop sign
+575,59510,59566,"조이,성소","potted plant,cow"
+576,59567,59619,"장윤주,송지효",
+577,59620,59665,"조이,성소",stop sign
+578,59666,59849,"장윤주,송지효,조이,성소","frisbee,stop sign"
+579,59850,59967,"장윤주,송지효","stop sign,dining table"
+580,59968,60055,"장윤주,송지효,조이,성소",suitcase
+581,60056,60102,"장윤주,송지효",
+582,60103,60162,"장윤주,송지효,조이,성소",backpack
+583,60163,60200,"장윤주,송지효,조이,","stop sign,cell phone"
+584,60201,60327,"장윤주,송지효,조이,성소",
+585,60328,60424,"장윤주,조이,성소","stop sign,cell phone"
+586,60425,60465,"장윤주,성소",cell phone
+587,60466,60506,"장윤주,조이,성소",cell phone
+588,60507,60565,"장윤주,송지효,조이,성소",
+589,60566,60685,"장윤주,송지효,조이,성소",cow
+590,60686,60728,"장윤주,조이,성소",cell phone
+591,60729,60786,"장윤주,조이,성소",
+592,60787,60875,"장윤주,송지효,조이,성소",car
+593,60876,60957,장윤주,
+594,60958,60994,송지효,
+595,60995,61093,"장윤주,송지효,조이,성소",stop sign
+596,61094,61112,"조이,성소",handbag
+597,61113,61143,성소,car
+598,61144,61188,송지효,
+599,61189,61251,"장윤주,송지효,조이",umbrella
+600,61252,61391,"장윤주,송지효,조이,성소",
+601,61392,61445,"조이,성소","stop sign,bench"
+602,61446,61583,"장윤주,송지효","cell phone,stop sign"
+603,61584,61661,"송지효,조이,성소","stop sign,cell phone"
+604,61662,61816,"장윤주,송지효,조이,성소","cell phone,vase"
+605,61817,61895,"송지효,조이,성소",
+606,61896,62007,"장윤주,송지효,조이",cell phone
+607,62008,62103,"장윤주,송지효,조이,성소","handbag,truck"
+608,62104,62150,"장윤주,성소",
+609,62151,62218,"장윤주,송지효,조이,성소",stop sign
+610,62219,62292,송지효,
+611,62293,62397,장윤주,stop sign
+612,62398,62447,"송지효,조이,성소",
+613,62448,62575,조이,"stop sign,chair,fork,toothbrush,tie"
+614,62576,62637,성소,
+615,62638,62708,송지효,
+616,62709,62758,조이,"stop sign,tie"
+617,62759,62875,장윤주,
+618,62876,62932,장윤주,
+619,62933,62989,,apple
+620,62990,63030,"장윤주,송지효,조이,성소",stop sign
+621,63031,63081,"장윤주,",
+622,63082,63121,"조이,성소",
+623,63122,63200,송지효,
+624,63201,63341,"장윤주,송지효,조이,성소",
+625,63342,63427,"장윤주,송지효,조이,",cell phone
+626,63428,63584,"장윤주,조이",stop sign
+627,63585,63704,"장윤주,송지효",cat
+628,63705,63778,,frisbee
+629,63779,64025,"장윤주,송지효,조이,성소","stop sign,handbag"
+630,64026,64180,"장윤주,송지효,조이,성소",stop sign
+631,64181,64250,"송지효,성소",
+632,64251,64360,"장윤주,송지효,조이,성소","handbag,stop sign,tennis racket"
+633,64361,64458,"장윤주,",stop sign
+634,64459,64525,"장윤주,조이",stop sign
+635,64526,64581,"장윤주,조이","handbag,sports ball"
+636,64582,64792,"장윤주,조이",stop sign
+637,64793,64888,"장윤주,송지효,조이,성소",cell phone
+638,64889,65107,"장윤주,조이",
+639,65108,65220,"장윤주,송지효,조이,성소",
+640,65221,65374,"송지효,성소","stop sign,tie"
+641,65375,65425,"조이,성소","handbag,toothbrush"
+642,65426,65533,"장윤주,송지효,조이,성소",stop sign
+643,65534,65647,"장윤주,송지효,조이,",handbag
+644,65648,65689,"장윤주,송지효,조이,성소",
+645,65690,65802,"송지효,성소",tv
+646,65803,65887,"송지효,성소",
+647,65888,66020,"장윤주,송지효,조이,성소","tennis racket,remote,stop sign"
+648,66021,66099,장윤주,
+649,66100,66152,"장윤주,조이,성소","stop sign,bottle,remote"
+650,66153,66233,"장윤주,송지효,조이,성소",stop sign
+651,66234,66297,장윤주,
+652,66298,66408,"장윤주,송지효,조이,성소","stop sign,tennis racket,remote"
+653,66409,66517,"조이,성소","bench,stop sign,tie"
+654,66518,66575,"장윤주,송지효,조이,성소","stop sign,cell phone"
+655,66576,66641,"장윤주,송지효,조이,성소",
+656,66642,66726,"장윤주,성소",stop sign
+657,66727,66872,"장윤주,송지효,조이",remote
+658,66873,66911,"장윤주,송지효,조이,성소",handbag
+659,66912,66982,"장윤주,송지효",stop sign
+660,66983,67048,"조이,",stop sign
+661,67049,67111,"장윤주,송지효,조이,성소","stop sign,tennis racket"
+662,67112,67262,조이,"stop sign,surfboard"
+663,67263,67392,"장윤주,송지효,조이,성소","stop sign,baseball glove"
+664,67393,67451,"장윤주,조이",car
+665,67452,67496,"장윤주,송지효,조이,성소",
+666,67497,67547,"장윤주,송지효,조이,성소",stop sign
+667,67548,67641,"장윤주,송지효,성소",bench
+668,67642,67735,"장윤주,송지효,조이,성소",stop sign
+669,67736,67825,"송지효,",
+670,67826,67883,장윤주,
+671,67884,67960,"송지효,조이,성소",cup
+672,67961,68044,"장윤주,송지효,조이,성소",
+673,68045,68138,송지효,"tv,vase,stop sign,umbrella,bed"
+674,68139,68197,"조이,성소",
+675,68198,68305,"장윤주,송지효,조이","frisbee,stop sign,scissors"
+676,68306,68379,"장윤주,송지효,조이,성소","stop sign,frisbee"
+677,68380,68453,"장윤주,송지효,조이,성소","stop sign,tie"
+678,68454,68537,"장윤주,송지효,조이,성소",stop sign
+679,68538,68640,"장윤주,송지효,조이,성소","frisbee,stop sign"
+680,68641,68789,"장윤주,송지효,조이,성소","stop sign,baseball bat,cell phone,bottle"
+681,68790,68857,"조이,성소",stop sign
+682,68858,68918,"장윤주,송지효,조이,성소","cell phone,tie"
+683,68919,68984,,train
+684,68985,69025,,stop sign
+685,69026,69086,,
+686,69087,69159,"송지효,조이,성소","stop sign,tie"
+687,69160,69342,"장윤주,송지효,조이,성소","cell phone,stop sign"
+688,69343,69391,"송지효,",cell phone
+689,69392,69440,"조이,성소",toothbrush
+690,69441,69502,"조이,성소",cell phone
+691,69503,69569,"송지효,성소",
+692,69570,69620,"장윤주,","suitcase,stop sign"
+693,69621,69679,"장윤주,송지효,조이,성소","cup,stop sign"
+694,69680,69728,"장윤주,성소",
+695,69729,69883,,"stop sign,bench,vase,bowl,fire hydrant"
+696,69884,69935,,"stop sign,umbrella"
+697,69936,70000,"장윤주,송지효","stop sign,car"
+698,70001,70058,"장윤주,송지효","stop sign,bench"
+699,70059,70166,"장윤주,조이,성소",stop sign
+700,70167,70258,,
+701,70259,70328,"장윤주,조이,성소",
+702,70329,70402,"장윤주,송지효,조이,성소",stop sign
+703,70403,70433,조이,car
+704,70434,70481,"장윤주,송지효,",stop sign
+705,70482,70532,,
+706,70533,70658,,"stop sign,frisbee,handbag,bench,backpack"
+707,70659,70725,"장윤주,송지효,조이,성소","stop sign,sports ball"
+708,70726,70779,성소,baseball bat
+709,70780,71007,"장윤주,조이,성소","stop sign,dog"
+710,71008,71236,성소,"bed,stop sign,parking meter"
+711,71237,71342,,"stop sign,frisbee,handbag,bench"
+712,71343,71476,"송지효,조이","car,stop sign,tie"
+713,71477,71554,"장윤주,성소","stop sign,parking meter"
+714,71555,71600,"장윤주,송지효,조이,성소","stop sign,bench,handbag,frisbee"
+715,71601,71673,"장윤주,송지효,조이,성소","stop sign,laptop"
+716,71674,71742,장윤주,sports ball
+717,71743,71796,조이,car
+718,71797,71878,"장윤주,송지효,조이,성소",stop sign
+719,71879,71995,장윤주,stop sign
+720,71996,72030,"송지효,성소",
+721,72031,72106,"장윤주,송지효,조이,","stop sign,handbag,chair"
+722,72107,72160,"송지효,성소",
+723,72161,72340,조이,"stop sign,vase,dining table"
+724,72341,72528,"장윤주,조이","stop sign,chair,banana"
+725,72529,72633,,"stop sign,bowl,bench"
+726,72634,72688,"송지효,조이,성소",stop sign
+727,72689,72746,"송지효,조이,성소",
+728,72747,72852,"장윤주,송지효,조이,성소","parking meter,stop sign,dining table"
+729,72853,72963,"장윤주,송지효,","dining table,stop sign"
+730,72964,73033,,"stop sign,bowl,bench"
+731,73034,73085,"장윤주,송지효,조이,성소",
+732,73086,73180,,"train,kite"
+733,73181,73233,,"stop sign,bowl,bench,kite"
+734,73234,73296,"장윤주,송지효,성소",stop sign
+735,73297,73345,"장윤주,송지효,조이,성소","stop sign,handbag,dining table,parking meter"
+736,73346,73432,,"stop sign,bowl,bench,handbag"
+737,73433,73458,,"kite,stop sign"
+738,73459,73491,조이,
+739,73492,73546,장윤주,
+740,73547,73583,송지효,
+741,73584,73619,"조이,성소","stop sign,car"
+742,73620,73656,"장윤주,송지효,조이,성소","stop sign,bottle"
+743,73657,73723,"장윤주,성소",stop sign
+744,73724,73761,,"stop sign,bench"
+745,73762,73808,"송지효,조이,성소",
+746,73809,73851,"장윤주,조이,성소",
+747,73852,73938,"송지효,조이,성소",
+748,73939,74056,"장윤주,송지효,조이,성소","stop sign,handbag,dining table,cell phone,chair"
+749,74057,74158,,umbrella
+750,74159,74224,,"stop sign,bench,handbag"
+751,74225,74317,장윤주,"boat,car"
+752,74318,74367,"장윤주,송지효","bench,stop sign"
+753,74368,74437,"장윤주,송지효,조이,성소",stop sign
+754,74438,74488,"장윤주,송지효,조이,성소","stop sign,bench"
+755,74489,74677,"장윤주,송지효,조이,성소","stop sign,bench"
+756,74678,74798,"장윤주,송지효,조이,성소","stop sign,bench"
+757,74799,74857,송지효,
+758,74858,74910,성소,"stop sign,sports ball,bench"
+759,74911,75051,"장윤주,송지효,조이,성소","stop sign,bench,teddy bear"
+760,75052,75104,"장윤주,송지효,조이,성소","stop sign,chair"
+761,75105,75239,"장윤주,송지효,성소","stop sign,parking meter"
+762,75240,75385,"장윤주,송지효,조이,성소","bowl,bench,stop sign,bicycle"
+763,75386,75484,,"dining table,cake"
+764,75485,75561,"장윤주,송지효,조이,성소",dog
+765,75562,75661,"장윤주,송지효,조이,성소","stop sign,bench,frisbee"
+766,75662,75740,송지효,
+767,75741,75823,"장윤주,성소","stop sign,bench"
+768,75824,75857,성소,"bench,sports ball"
+769,75858,75908,조이,"stop sign,umbrella"
+770,75909,76019,"장윤주,송지효,조이,성소","stop sign,bench,dining table,frisbee"
+771,76020,76159,"장윤주,송지효,성소","bench,stop sign,baseball bat"
+772,76160,76242,"장윤주,조이","stop sign,bowl,bench,surfboard"
+773,76243,76451,"장윤주,송지효,조이,성소","stop sign,car,bench,handbag"
+774,76452,76579,장윤주,bench
+775,76580,76872,"장윤주,송지효,조이,성소","stop sign,bench,surfboard"
+776,76873,77036,,"car,traffic light,stop sign,bench,scissors,fire hydrant"
+777,77037,77224,"장윤주,성소","stop sign,bed"
+778,77225,77331,"장윤주,성소",
+779,77332,77386,성소,chair
+780,77387,77481,"장윤주,성소","stop sign,bed,tie"
+781,77482,77586,"장윤주,성소","chair,toilet,stop sign"
+782,77587,77714,"장윤주,성소",stop sign
+783,77715,77797,"장윤주,성소","stop sign,chair,toilet"
+784,77798,77944,"장윤주,성소",
+785,77945,78103,"장윤주,성소","stop sign,tie,teddy bear"
+786,78104,78165,,"stop sign,truck,car,bus,traffic light"
+787,78166,78295,,"stop sign,refrigerator"
+788,78296,78436,"장윤주,성소","stop sign,chair,orange,bowl,apple,dining table"
+789,78437,78543,"장윤주,성소","refrigerator,car,stop sign,handbag"
+790,78544,78620,"장윤주,성소","stop sign,car"
+791,78621,78724,"장윤주,","stop sign,handbag"
+792,78725,78892,"장윤주,성소","stop sign,handbag,car"
+793,78893,79014,,"bottle,refrigerator,toothbrush,apple,cup,vase"
+794,79015,79096,"장윤주,성소","stop sign,bottle"
+795,79097,79205,"장윤주,","bottle,refrigerator,handbag,stop sign,cup"
+796,79206,79258,,"bottle,refrigerator,book,cup"
+797,79259,79355,,"apple,refrigerator"
+798,79356,79470,,
+799,79471,79598,"송지효,조이","chair,bed,dining table,stop sign"
+800,79599,79705,"송지효,조이","stop sign,chair,bed"
+801,79706,79795,"송지효,조이","stop sign,chair,bed,dining table"
+802,79796,79919,"송지효,","stop sign,chair"
+803,79920,80014,"송지효,",chair
+804,80015,80081,조이,"cell phone,bed"
+805,80082,80242,"송지효,조이","chair,bed"
+806,80243,80337,송지효,"tv,chair,bed"
+807,80338,80392,송지효,"chair,stop sign"
+808,80393,80445,조이,bed
+809,80446,80538,조이,"stop sign,bed"
+810,80539,80689,"송지효,조이","chair,bed,stop sign"
+811,80690,80754,조이,"chair,bed,cell phone"
+812,80755,80816,송지효,"chair,refrigerator"
+813,80817,80898,,"chair,bed,dining table"
+814,80899,81037,"장윤주,송지효,조이,성소","chair,cell phone,bed,stop sign"
+815,81038,81128,"송지효,조이","tie,cell phone,clock"
+816,81129,81260,"장윤주,성소","refrigerator,cup,bottle,knife"
+817,81261,81382,"송지효,조이",cell phone
+818,81383,81505,"장윤주,성소","refrigerator,cake,book,cup,bottle"
+819,81506,81632,,"cell phone,bed,tv,bottle"
+820,81633,81694,"송지효,조이","cell phone,bed,chair"
+821,81695,81784,"송지효,조이","cell phone,laptop,chair"
+822,81785,81849,조이,
+823,81850,81989,"장윤주,성소","stop sign,cup,orange,knife,bottle"
+824,81990,82041,"장윤주,성소",tv
+825,82042,82116,,cell phone
+826,82117,82206,"송지효,조이","cell phone,bed,chair"
+827,82207,82302,"송지효,",spoon
+828,82303,82410,조이,"chair,bed"
+829,82411,82477,송지효,chair
+830,82478,82545,"송지효,조이","chair,suitcase"
+831,82546,82641,"송지효,조이","cell phone,chair,stop sign,bed,couch"
+832,82642,82698,,"stop sign,truck,car,bus"
+833,82699,82764,"장윤주,성소","stop sign,refrigerator,bottle,cup"
+834,82765,82829,,"bottle,refrigerator,stop sign,train,bench"
+835,82830,82881,,banana
+836,82882,82927,"장윤주,성소","refrigerator,cup,umbrella"
+837,82928,82980,,stop sign
+838,82981,83017,,"refrigerator,stop sign"
+839,83018,83050,,"handbag,refrigerator"
+840,83051,83109,장윤주,stop sign
+841,83110,83199,"장윤주,성소","handbag,bottle"
+842,83200,83263,,
+843,83264,83333,성소,"bottle,cup,stop sign,bus,cake,umbrella"
+844,83334,83410,장윤주,"pizza,toothbrush,stop sign,banana"
+845,83411,83500,"장윤주,성소",cake
+846,83501,83571,장윤주,"fork,bird,stop sign,bottle"
+847,83572,83587,,cake
+848,83588,83603,장윤주,"cake,bottle,refrigerator,stop sign"
+849,83604,83619,,bottle
+850,83620,83635,성소,
+851,83636,83687,장윤주,"bottle,refrigerator,book"
+852,83688,83759,,"bowl,stop sign"
+853,83760,83878,"장윤주,성소",handbag
+854,83879,83932,"송지효,조이","dining table,stop sign,cup,bowl,wine glass,cell phone,chair,couch,sink"
+855,83933,83987,"장윤주,성소",stop sign
+856,83988,84118,,"handbag,stop sign,car,traffic light"
+857,84119,84235,,"stop sign,cup,bowl,couch,bed,handbag"
+858,84236,84360,"장윤주,송지효,조이","bottle,stop sign,clock,umbrella"
+859,84361,84459,"송지효,조이","cake,dining table,handbag"
+860,84460,84580,,"spoon,knife,cake"
+861,84581,84670,"장윤주,송지효,조이,성소","apple,dining table,stop sign,cup,bowl,couch,chair,cell phone"
+862,84671,84757,"장윤주,송지효,조이,성소","bowl,cup,couch,chair"
+863,84758,84821,,
+864,84822,84933,"장윤주,송지효,조이","bowl,bottle,chair,cup,couch"
+865,84934,85042,조이,chair
+866,85043,85156,"장윤주,송지효,조이,성소","dining table,bowl,cup,couch,bottle"
+867,85157,85295,,"fire hydrant,stop sign"
+868,85296,85378,,"bowl,bottle,dining table"
+869,85379,85414,,bowl
+870,85415,85450,,"orange,donut,bowl"
+871,85451,85525,,"bowl,dining table"
+872,85526,85679,"장윤주,송지효,조이,성소","couch,bowl,dining table,bottle"
+873,85680,85733,,"cake,bowl"
+874,85734,85811,,"bowl,wine glass,cup"
+875,85812,85894,송지효,"bowl,bottle,cup,toothbrush"
+876,85895,86022,,"bowl,wine glass,cup,cake"
+877,86023,86067,성소,"potted plant,vase"
+878,86068,86117,조이,chair
+879,86118,86198,"송지효,조이","bottle,cup"
+880,86199,86288,,"bowl,cup"
+881,86289,86431,"장윤주,조이,성소","handbag,stop sign,cake,dining table,chair,bowl"
+882,86432,86546,성소,chair
+883,86547,86624,"장윤주,","stop sign,couch"
+884,86625,86666,"송지효,조이","handbag,cup"
+885,86667,86742,,donut
+886,86743,86788,장윤주,"stop sign,couch"
+887,86789,86881,"장윤주,송지효,조이","stop sign,bowl,bottle,cup"
+888,86882,86956,성소,"potted plant,vase"
+889,86957,87017,"장윤주,송지효,조이,성소","handbag,cake,dining table,bowl"
+890,87018,87073,,bowl
+891,87074,87136,"장윤주,조이","stop sign,couch"
+892,87137,87198,,bowl
+893,87199,87255,,bed
+894,87256,87321,"장윤주,조이",cake
+895,87322,87383,성소,potted plant
+896,87384,87440,,bed
+897,87441,87497,,
+898,87498,87564,,
+899,87565,87649,"장윤주,송지효,조이,성소","dining table,stop sign,cup,bowl,couch,bottle,chair"
+900,87650,87744,"장윤주,조이","chair,stop sign"
+901,87745,87861,,"bowl,sink,dining table"
+902,87862,87975,"장윤주,송지효,조이,성소","dining table,stop sign,bowl,couch,bottle,cup"
+903,87976,88071,"장윤주,조이","handbag,chair,tie,stop sign"
+904,88072,88191,"장윤주,조이","couch,bowl,dining table"
+905,88192,88287,"장윤주,조이",chair
+906,88288,88359,,"bowl,dining table"
+907,88360,88455,"장윤주,송지효,조이,성소","handbag,bowl,dining table,stop sign"
+908,88456,88531,,
+909,88532,88587,"장윤주,조이",chair
+910,88588,88666,"장윤주,송지효,조이,성소","dining table,stop sign,bowl,bottle,handbag"
+911,88667,88743,"장윤주,조이",couch
+912,88744,88812,장윤주,"chair,stop sign,couch"
+913,88813,88910,조이,"stop sign,bowl,chair"
+914,88911,88995,"장윤주,조이",
+915,88996,89072,"장윤주,송지효,조이,성소",stop sign
+916,89073,89158,장윤주,stop sign
+917,89159,89229,,bed
+918,89230,89285,"장윤주,송지효,조이,성소","bowl,dining table,handbag,bottle"
+919,89286,89388,,"bed,banana"
+920,89389,89451,송지효,
+921,89452,89510,,bed
+922,89511,89568,성소,"potted plant,bowl,vase"
+923,89569,89648,조이,"tv,tie"
+924,89649,89777,"장윤주,송지효,조이,성소","handbag,bowl,dining table,stop sign"
+925,89778,89859,"장윤주,","chair,stop sign"
+926,89860,89944,장윤주,"cake,chair,dining table"
+927,89945,90128,"장윤주,송지효,조이,성소","teddy bear,bowl,potted plant,dining table,chair,tv"
+928,90129,90242,성소,"potted plant,vase,chair"
+929,90243,90289,"송지효,조이","stop sign,bowl,bottle,cup"
+930,90290,90346,조이,"chair,handbag"
+931,90347,90624,성소,"bed,sink,book,potted plant"
+932,90625,90743,"장윤주,조이",chair
+933,90744,90834,"장윤주,조이","bowl,bottle,couch,dining table"
+934,90835,90964,"장윤주,조이",chair
+935,90965,91031,"장윤주,조이",couch
+936,91032,91174,"장윤주,조이",handbag
+937,91175,91246,"송지효,",
+938,91247,91339,장윤주,couch
+939,91340,91445,"장윤주,송지효,조이,","handbag,bowl,stop sign,couch,cup"
+940,91446,91527,"장윤주,송지효,성소","chair,potted plant,vase"
+941,91528,91652,"장윤주,송지효,조이,성소","handbag,stop sign,dining table,bowl,cake"
+942,91653,91755,장윤주,"stop sign,chair"
+943,91756,91812,"송지효,조이","cup,bowl,dining table,couch"
+944,91813,91940,"장윤주,조이",couch
+945,91941,92040,조이,"chair,stop sign"
+946,92041,92212,"장윤주,송지효,조이,성소","cake,bowl,dining table,bottle,handbag"
+947,92213,92350,"장윤주,조이",couch
+948,92351,92436,조이,chair
+949,92437,92488,송지효,
+950,92489,92539,장윤주,
+951,92540,92661,조이,"chair,handbag,cake"
+952,92662,92731,장윤주,"stop sign,couch"
+953,92732,92865,"장윤주,송지효,조이","stop sign,bowl,bottle,couch"
+954,92866,92937,장윤주,"stop sign,couch,chair"
+955,92938,93024,"장윤주,송지효","bowl,couch"
+956,93025,93110,장윤주,"stop sign,couch,chair"
+957,93111,93169,성소,vase
+958,93170,93380,"장윤주,송지효,성소","stop sign,bowl,bottle,couch,chair,cake"
+959,93381,93497,조이,"stop sign,chair"
+960,93498,93607,"장윤주,조이","chair,bowl,bottle,couch"
+961,93608,93714,"장윤주,조이",chair
+962,93715,93822,장윤주,couch
+963,93823,93913,송지효,
+964,93914,93971,조이,"handbag,chair,sports ball"
+965,93972,94073,"장윤주,조이",chair
+966,94074,94150,"장윤주,조이","chair,handbag"
+967,94151,94228,장윤주,couch
+968,94229,94288,조이,"handbag,chair"
+969,94289,94437,"장윤주,조이","stop sign,chair"
+970,94438,94505,송지효,laptop
+971,94506,94634,"장윤주,조이","stop sign,couch"
+972,94635,94728,"장윤주,송지효,조이,성소","bowl,dining table,chair"
+973,94729,94799,송지효,"laptop,couch"
+974,94800,94877,장윤주,"stop sign,bus,couch"
+975,94878,95065,,toilet
+976,95066,95202,송지효,"laptop,stop sign"
+977,95203,95347,송지효,"tv,laptop,surfboard"
+978,95348,95423,장윤주,"stop sign,couch,bus"
+979,95424,95555,송지효,stop sign
+980,95556,95651,"장윤주,조이",chair
+981,95652,95792,장윤주,"couch,stop sign"
+982,95793,95836,"장윤주,조이","couch,bowl,cup,donut,sink,bottle"
+983,95837,95902,송지효,laptop
+984,95903,95960,"장윤주,조이","couch,bottle"
+985,95961,96010,송지효,laptop
+986,96011,96187,"장윤주,조이","cup,bowl,couch,bottle"
+987,96188,96241,조이,stop sign
+988,96242,96372,"장윤주,조이","cup,bottle,couch,car,sports ball,bowl"
+989,96373,96438,조이,"stop sign,couch,chair"
+990,96439,96052,"장윤주,송지효,조이,성소",
+991,96053,96602,"장윤주,조이","bowl,couch,stop sign,cup,bottle,car,sports ball,chair,handbag,dining table"
+992,96603,96734,"장윤주,조이","bowl,bottle,couch,remote,cup"
+993,96735,96868,,"dining table,stop sign,bowl,vase,potted plant,cake,banana"
+994,96869,97022,,stop sign
+995,97023,97149,"조이,성소","couch,bowl,dining table,teddy bear,stop sign,bottle,handbag,dog"
+996,97150,97274,"장윤주,송지효,조이,성소","cake,bowl,dining table,cup,handbag,keyboard,stop sign"
+997,97275,97392,성소,"book,potted plant,toothbrush,cup"
+998,97393,97456,"장윤주,송지효,조이","bowl,bottle,couch,handbag"
+999,97457,97511,성소,"toothbrush,potted plant,cup,microwave,dining table"
+1000,97512,97541,"장윤주,송지효,조이","handbag,stop sign,dining table,cake"
+1001,97542,97571,"장윤주,송지효,조이,성소","chair,cup,bowl,potted plant"
+1002,97572,97634,성소,"bowl,bottle,keyboard,cup"
+1003,97635,97747,"조이,성소","dining table,stop sign,bowl,couch,bottle,teddy bear"
+1004,97748,97852,성소,"potted plant,vase"
+1005,97853,98008,"장윤주,송지효,조이,성소","handbag,bowl,bottle,dining table"
+1006,98009,98094,,
+1007,98095,98140,조이,chair
+1008,98141,98233,장윤주,"chair,couch,donut"
+1009,98234,98303,성소,"potted plant,bed,vase,tv,chair"
+1010,98304,98371,"장윤주,송지효,조이,성소","handbag,bottle,dining table,bowl"
+1011,98372,98467,성소,"chair,potted plant,vase"
+1012,98468,98522,,
+1013,98523,98593,,"spoon,bowl,dining table"
+1014,98594,98635,성소,"chair,vase"
+1015,98636,98683,,
+1016,98684,98755,,
+1017,98756,98859,,"cake,dining table"
+1018,98860,98917,장윤주,"chair,couch"
+1019,98918,98979,"장윤주,조이",chair
+1020,98980,99123,"장윤주,성소","potted plant,vase"
+1021,99124,99226,성소,"bowl,bottle,stop sign"
+1022,99227,99305,성소,banana
+1023,99306,99403,,"sports ball,apple"
+1024,99404,99587,성소,stop sign
+1025,99588,99734,"장윤주,송지효,조이,성소","bowl,dining table,handbag"
+1026,99735,99843,"장윤주,조이","stop sign,couch,bus"
+1027,99844,99907,조이,chair
+1028,99908,99970,성소,"potted plant,vase,chair"
+1029,99971,100078,,
+1030,100079,100240,"장윤주,조이","stop sign,couch,chair"
+1031,100241,100334,,bed
+1032,100335,100429,장윤주,"tv,chair,couch,stop sign"
+1033,100430,100545,성소,"potted plant,vase"
+1034,100546,100630,"장윤주,조이",
+1035,100631,100729,성소,"potted plant,vase,tie"
+1036,100730,100780,"장윤주,조이",chair
+1037,100781,100923,성소,"potted plant,vase"
+1038,100924,101128,"장윤주,조이","cake,chair,bowl,couch"
+1039,101129,101203,송지효,
+1040,101204,101262,장윤주,"stop sign,couch,chair"
+1041,101263,101358,"장윤주,송지효,조이","chair,bowl,bottle,couch,stop sign"
+1042,101359,101452,장윤주,"stop sign,couch"
+1043,101453,101504,송지효,
+1044,101505,101637,장윤주,"stop sign,couch"
+1045,101638,101702,,"spoon,cup,bowl,dining table"
+1046,101703,101767,,"bowl,dining table"
+1047,101768,101834,,"bowl,dining table"
+1048,101835,101961,"장윤주,송지효,조이,성소","bowl,bottle,couch,stop sign"
+1049,101962,102140,"송지효,조이,성소","dining table,stop sign,cup,bowl,couch,bottle,chair,sink"
+1050,102141,102220,조이,
+1051,102221,102323,"장윤주,송지효,조이,성소","bowl,dining table,handbag"
+1052,102324,102428,,"bowl,apple"
+1053,102429,102505,조이,
+1054,102506,102636,"장윤주,송지효,조이,성소","stop sign,bowl,bottle,dining table"
+1055,102637,102779,,"bowl,baseball bat,sink,cup,apple"
+1056,102780,102946,"장윤주,송지효,조이,성소","bowl,dining table,handbag,couch"
+1057,102947,103088,,"hot dog,donut,bowl,dining table"
+1058,103089,103201,"장윤주,조이,성소","bowl,bottle,apple"
+1059,103202,103292,,"bed,teddy bear,apple"
+1060,103293,103503,조이,"bench,stop sign"
+1061,103504,103625,조이,stop sign
+1062,103626,103745,"장윤주,송지효,조이,성소","dining table,bowl"
+1063,103746,103847,,bowl
+1064,103848,103930,장윤주,"stop sign,parking meter,clock"
+1065,103931,104003,장윤주,stop sign
+1066,104004,104087,조이,chair
+1067,104088,104195,장윤주,"cell phone,couch,tv,stop sign"
+1068,104196,104280,송지효,handbag
+1069,104281,104345,장윤주,stop sign
+1070,104346,104427,"장윤주,송지효,조이,성소","bowl,cup"
+1071,104428,104560,"장윤주,송지효,조이","bowl,couch,stop sign,bottle"
+1072,104561,104666,,donut
+1073,104667,104801,장윤주,"stop sign,couch,dining table,bowl,bottle,dog,handbag"
+1074,104802,104908,송지효,"bowl,banana,donut"
+1075,104909,105013,,"remote,potted plant,tv,knife,vase,bowl,dining table"
+1076,105014,105147,,"bowl,donut"
+1077,105148,105290,"장윤주,송지효","potted plant,bowl,remote,vase,dining table,carrot"
+1078,105291,105470,,fire hydrant
+1079,105471,105563,,"airplane,car,stop sign"
+1080,105564,105615,,stop sign
+1081,105616,105686,,"stop sign,boat,chair"
+1082,105687,105725,"장윤주,조이,성소",stop sign
+1083,105726,105792,"장윤주,송지효,조이,성소",handbag
+1084,105793,105856,"장윤주,송지효,조이,성소","stop sign,handbag"
+1085,105857,105930,,stop sign
+1086,105931,105981,,stop sign
+1087,105982,106093,,
+1088,106094,106218,"장윤주,송지효,조이,성소",handbag
+1089,106219,106305,"장윤주,송지효,조이,성소",
+1090,106306,106494,"장윤주,송지효,조이,성소","handbag,train"
+1091,106495,106573,,toilet
+1092,106574,106707,"장윤주,송지효,조이,성소","handbag,tie"
+1093,106708,106820,,"chair,clock,potted plant,stop sign,dining table,vase,bottle"
+1094,106821,106988,"장윤주,조이,성소","chair,tie"
+1095,106989,107114,조이,"stop sign,train,bicycle"
+1096,107115,107231,"송지효,성소","stop sign,tie,handbag,chair"
+1097,107232,107333,송지효,"dining table,cup,bowl,potted plant,cake,chair,handbag,stop sign"
+1098,107334,107417,,"cup,bowl,dining table,cake,pizza,donut"
+1099,107418,107458,,"carrot,cup"
+1100,107459,107499,,"cup,donut"
+1101,107500,107544,,"cake,broccoli,potted plant,dining table"
+1102,107545,107592,,stop sign
+1103,107593,107605,,"spoon,cup,bowl,dining table"
+1104,107606,107616,,"carrot,dining table"
+1105,107617,107625,,"carrot,bowl"
+1106,107626,107631,,dining table
+1107,107632,107638,,bowl
+1108,107639,107649,,"carrot,dining table"
+1109,107650,107656,,
+1110,107657,107663,,carrot
+1111,107664,107672,,cake
+1112,107673,107683,,"carrot,dining table"
+1113,107684,107697,,bowl
+1114,107698,107709,,"bowl,dining table"
+1115,107710,107719,,orange
+1116,107720,107731,,"orange,broccoli,knife,dining table"
+1117,107732,107741,,"spoon,cup,bowl,chair,dining table"
+1118,107742,107750,,"orange,bowl,dining table"
+1119,107751,107821,,"dining table,cup,bowl,spoon,potted plant,cake,chair"
+1120,107822,107893,"송지효,성소","cup,bowl,bottle"
+1121,107894,107970,"장윤주,조이","stop sign,potted plant,chair,dining table"
+1122,107971,108046,"송지효,성소","cake,stop sign,cup,potted plant,bowl,vase"
+1123,108047,108091,송지효,
+1124,108092,108139,"장윤주,조이","chair,cup,bowl,potted plant,dining table"
+1125,108140,108199,조이,
+1126,108200,108282,,stop sign
+1127,108283,108333,송지효,
+1128,108334,108389,"장윤주,조이","stop sign,bowl,cup,dining table"
+1129,108390,108492,,"chair,bowl,cup,dining table,spoon,broccoli"
+1130,108493,108594,"장윤주,조이","stop sign,bowl,cup,chair,dining table,cell phone"
+1131,108595,108676,성소,potted plant
+1132,108677,108791,"송지효,성소","dining table,bowl,potted plant,cake,chair,cup,vase"
+1133,108792,108892,"장윤주,송지효,조이,성소",
+1134,108893,108980,"송지효,성소","potted plant,stop sign"
+1135,108981,109131,장윤주,"bowl,cup,spoon"
+1136,109132,109222,"장윤주,송지효,조이","handbag,chair,cake,dining table,stop sign,potted plant,vase"
+1137,109223,109356,"송지효,성소",
+1138,109357,109489,,"hot dog,spoon"
+1139,109490,109521,,donut
+1140,109522,109579,,"stop sign,spoon,hot dog,knife,cake"
+1141,109580,109627,"장윤주,조이","remote,cup,dining table,bowl,potted plant,cake,spoon"
+1142,109628,109704,조이,"bowl,cell phone,bed"
+1143,109705,109847,"장윤주,조이",bowl
+1144,109848,109935,장윤주,
+1145,109936,110015,성소,"potted plant,stop sign"
+1146,110016,110086,"장윤주,송지효,조이,성소","chair,bowl,dining table,potted plant"
+1147,110087,110176,"장윤주,조이","cake,bowl,cup,dining table"
+1148,110177,110280,장윤주,"toothbrush,stop sign"
+1149,110281,110345,"장윤주,송지효,조이,성소","dining table,stop sign,cup,bowl,cake,chair"
+1150,110346,110417,"장윤주,조이","dining table,bowl,cup,potted plant,cake"
+1151,110418,110483,,"cake,broccoli,orange"
+1152,110484,110568,,"knife,orange,dining table,broccoli"
+1153,110569,110801,"송지효,성소","bowl,cup,pizza"
+1154,110802,110876,,cake
+1155,110877,110940,,"cake,orange"
+1156,110941,111030,,"cake,spoon"
+1157,111031,111129,장윤주,scissors
+1158,111130,111228,송지효,stop sign
+1159,111229,111383,성소,"potted plant,bowl,cake,cup,spoon"
+1160,111384,111463,"장윤주,조이","cup,bowl,potted plant,cake,dining table"
+1161,111464,111494,,"orange,cake,apple"
+1162,111495,111523,,cake
+1163,111524,111626,,"orange,dining table"
+1164,111627,111704,송지효,cell phone
+1165,111705,111808,"장윤주,조이","bowl,cup,dining table,potted plant"
+1166,111809,111888,장윤주,
+1167,111889,111965,,"bowl,knife,stop sign,carrot,dining table"
+1168,111966,111991,,"orange,bowl,cake,vase,knife"
+1169,111992,112033,장윤주,
+1170,112034,112075,성소,sandwich
+1171,112076,112167,성소,"stop sign,chair"
+1172,112168,112226,성소,
+1173,112227,112268,"송지효,성소","bowl,cup,dining table,toothbrush"
+1174,112269,112368,성소,"potted plant,cup,bowl,spoon,stop sign"
+1175,112369,112471,송지효,"cup,handbag"
+1176,112472,112508,,"toothbrush,bowl,dining table,pizza,stop sign"
+1177,112509,112588,조이,"donut,toothbrush"
+1178,112589,112672,조이,"bicycle,potted plant"
+1179,112673,112776,"장윤주,조이","potted plant,dining table,vase,chair,stop sign"
+1180,112777,112834,"장윤주,조이","bowl,cup"
+1181,112835,112902,성소,"potted plant,stop sign"
+1182,112903,113015,"장윤주,조이","dining table,cup,bowl,potted plant,cake,pizza"
+1183,113016,113097,"장윤주,송지효,성소","cake,chair,cup,dining table,potted plant,bowl"
+1184,113098,113152,송지효,stop sign
+1185,113153,113212,장윤주,
+1186,113213,113311,"송지효,성소","bowl,cup,toothbrush,pizza"
+1187,113312,113398,"장윤주,조이","dining table,bowl,cup,potted plant,cake,fork,stop sign"
+1188,113399,113467,장윤주,
+1189,113468,113514,"장윤주,조이",car
+1190,113515,113561,"장윤주,성소",refrigerator
+1191,113562,113623,"송지효,성소",
+1192,113624,113703,"장윤주,송지효,조이","dining table,cup,bowl,wine glass,chair,stop sign"
+1193,113704,113776,"장윤주,조이","dining table,bowl,cup,potted plant,cake"
+1194,113777,113846,송지효,stop sign
+1195,113847,113906,"송지효,성소","chair,cup,bowl"
+1196,113907,113972,"장윤주,조이",stop sign
+1197,113973,114036,송지효,"stop sign,toothbrush"
+1198,114037,114111,"장윤주,조이","cake,potted plant,dining table,bowl,cup"
+1199,114112,114176,조이,donut
+1200,114177,114264,"장윤주,송지효","cake,cup"
+1201,114265,114388,"장윤주,송지효,조이",
+1202,114389,114513,"조이,성소",tie
+1203,114514,114575,"장윤주,조이","cup,bowl,potted plant,dining table,donut"
+1204,114576,114635,송지효,baseball bat
+1205,114636,114696,조이,donut
+1206,114697,114758,성소,"potted plant,stop sign,sandwich,cup,dining table,bowl"
+1207,114759,114930,"장윤주,조이","cup,bowl,potted plant,dining table"
+1208,114931,115005,조이,donut
+1209,115006,115072,"송지효,성소",
+1210,115073,115163,"장윤주,조이","cup,bowl,dining table"
+1211,115164,115210,,tie
+1212,115211,115277,"장윤주,송지효,조이,성소",
+1213,115278,115349,"장윤주,송지효,조이,성소",stop sign
+1214,115350,115434,"장윤주,조이","toothbrush,cup,bowl,dining table,cell phone"
+1215,115435,115547,성소,stop sign
+1216,115548,115668,"장윤주,성소","spoon,cup,sink"
+1217,115669,115759,"장윤주,조이","bowl,cup,knife"
+1218,115760,115853,"장윤주,송지효,조이","chair,potted plant,dining table"
+1219,115854,115934,"장윤주,조이",
+1220,115935,116040,"송지효,성소","bowl,potted plant,cup,frisbee"
+1221,116041,116075,"송지효,성소",
+1222,116076,116120,"송지효,성소",
+1223,116121,116218,"장윤주,송지효,조이,성소","stop sign,frisbee,car"
+1224,116219,116265,"송지효,성소",
+1225,116266,116336,"장윤주,송지효,성소","cake,cup,spoon,dining table,bowl"
+1226,116337,116455,"송지효,성소","chair,bowl,cup,spoon,pizza"
+1227,116456,116521,"장윤주,조이",cup
+1228,116522,116617,"송지효,성소",
+1229,116618,116703,"장윤주,조이","toothbrush,tv,stop sign"
+1230,116704,116782,"장윤주,송지효,조이,성소","dining table,cup,bowl,potted plant,cake,chair"
+1231,116783,116849,장윤주,
+1232,116850,116950,성소,"potted plant,vase,donut,fork"
+1233,116951,117029,"장윤주,송지효,조이,성소","dining table,cup,bowl,potted plant,cake,chair"
+1234,117030,117096,장윤주,
+1235,117097,117198,성소,"potted plant,vase,fork"
+1236,117199,117293,송지효,"toothbrush,stop sign"
+1237,117294,117409,"장윤주,조이","cake,bowl,dining table,cup"
+1238,117410,117492,"장윤주,성소",stop sign
+1239,117493,117570,송지효,cell phone
+1240,117571,117656,장윤주,
+1241,117657,117734,"장윤주,송지효,조이,성소","chair,potted plant,dining table,cup"
+1242,117735,117792,"송지효,성소","dining table,bowl,cup,potted plant,cake,pizza"
+1243,117793,117847,"장윤주,조이",cup
+1244,117848,117976,송지효,
+1245,117977,118158,장윤주,
+1246,118159,118222,"송지효,성소","stop sign,cell phone"
+1247,118223,118281,"장윤주,조이","bowl,dining table,cup"
+1248,118282,118341,장윤주,
+1249,118342,118428,장윤주,"umbrella,bed"
+1250,118429,118518,장윤주,
+1251,118519,118624,장윤주,
+1252,118625,118733,장윤주,
+1253,118734,118811,송지효,
+1254,118812,118896,"장윤주,조이","bowl,dining table,cup,remote"
+1255,118897,118988,성소,"toothbrush,chair"
+1256,118989,119123,장윤주,
+1257,119124,119205,송지효,
+1258,119206,119339,"장윤주,조이","bowl,dining table,cake"
+1259,119340,119411,장윤주,
+1260,119412,119510,송지효,
+1261,119511,119600,송지효,
+1262,119601,119758,장윤주,
+1263,119759,119830,성소,
+1264,119831,119899,"장윤주,송지효,조이,성소","cup,dining table,bowl,cake,chair,potted plant"
+1265,119900,119985,"장윤주,조이","chair,bowl,dining table,wine glass,cake,cup"
+1266,119986,120083,장윤주,toothbrush
+1267,120084,120179,"조이,성소",chair
+1268,120180,120286,송지효,stop sign
+1269,120287,120383,"장윤주,송지효,조이,성소","cake,cup,bowl,dining table,potted plant,chair,stop sign"
+1270,120384,120481,"송지효,성소","chair,bowl,cup,dining table,potted plant,pizza"
+1271,120482,120609,"장윤주,조이","cake,bowl,chair,dining table,remote,cup"
+1272,120610,120657,성소,
+1273,120658,120786,"장윤주,송지효,조이,성소","cake,chair,cup,dining table,bowl,potted plant,stop sign"
+1274,120787,120883,"장윤주,조이","bowl,dining table,chair,cake"
+1275,120884,120996,"장윤주,송지효,성소","dining table,stop sign,cup,bowl,potted plant,chair,cake"
+1276,120997,121099,"장윤주,송지효,조이,성소","cake,chair,cup,dining table,bowl,potted plant"
+1277,121100,121171,,
+1278,121172,121238,,
+1279,121239,121262,"장윤주,송지효,조이",
+1280,121263,121315,"장윤주,조이,성소",
+1281,121316,121363,"장윤주,송지효",
+1282,121364,121419,"장윤주,송지효,조이",
+1283,121420,121494,장윤주,
+1284,121495,121525,"장윤주,송지효",
+1285,121526,121552,"장윤주,성소",
+1286,121553,121568,,
+1287,121569,121588,"장윤주,조이",
+1288,121589,121607,조이,
+1289,121608,121632,성소,
+1290,121633,121694,"장윤주,송지효,조이,성소",
+1291,121695,121710,조이,
+1292,121711,121725,성소,
+1293,121726,121738,송지효,
+1294,121739,121783,장윤주,
+1295,121784,121835,,
+1296,121836,121898,,

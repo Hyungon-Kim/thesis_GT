@@ -1,0 +1,265 @@
+1,247,432,"Monica,Phoebe",car
+2,462,534,"Monica,Phoebe",car
+3,534,734,"Monica,Phoebe",
+4,734,760,Monica,car
+5,760,804,"Monica,Phoebe",
+6,887,1008,"Monica,Phoebe",
+7,2190,2309,Monica,bed
+8,2309,2506,"Monica,Phoebe",bed
+9,2544,2599,Phoebe,bed
+10,2634,2666,Phoebe,bed
+11,2666,2788,"Monica,Phoebe",
+12,2854,2956,"Monica,Phoebe",
+13,2956,3044,"Monica,Phoebe",bed
+14,3044,3199,"Monica,Phoebe",
+15,3199,3408,Phoebe,bed
+16,3408,3450,"Monica,Phoebe",
+17,3499,3755,"Monica,Phoebe",
+18,3755,3831,"Monica,Ross,Rachel,Joey,Chandler","chair,bowl,potted plant"
+19,3831,3937,"Monica,Ross,Phoebe",bottle
+20,3937,3988,"Joey,Chandler",chair
+21,4017,4067,"Joey,Chandler","chair,couch,potted plant"
+22,4067,4112,Rachel,"couch,dining table"
+23,4285,4403,"Monica,Ross,Rachel,Joey,Chandler,Phoebe","book,dining table,couch"
+24,4403,4452,"Monica,Ross,Joey,Chandler,Phoebe","bowl,oven,bottle"
+25,4452,4573,Chandler,
+26,4573,4619,"Monica,Ross,Rachel,Joey,Chandler,Phoebe",book
+27,4619,4949,"Rachel,Chandler","book,dining table,couch,vase,refrigerator"
+28,4949,5008,"Ross,Phoebe",couch
+29,5008,5058,Chandler,
+30,5147,5183,"Monica,Ross,Joey",couch
+31,5183,5517,"Monica,Ross,Joey",couch
+32,5517,5554,Phoebe,couch
+33,5607,5697,"Rachel,Chandler",potted plant
+34,5811,5850,Phoebe,couch
+35,5850,5922,Chandler,cup
+36,6078,6117,Chandler,cup
+37,6117,6162,"Monica,Ross,Rachel,Joey,Chandler,Phoebe","cup,dining table,bowl,book,oven,couch"
+38,6314,6359,"Monica,Ross,Rachel,Joey,Chandler,Phoebe","dining table,book,bowl,oven,cup,couch"
+39,6621,6661,"Monica,Ross,Rachel,Joey,Phoebe","book,couch"
+40,6661,6758,Chandler,
+41,7019,7101,"Monica,Ross,Rachel,Joey,Chandler,Phoebe",book
+42,7101,7221,Chandler,
+43,7221,7591,"Monica,Ross,Rachel,Joey,Phoebe","book,couch"
+44,7591,7657,"Monica,Phoebe","bed,vase"
+45,7657,7712,Monica,
+46,7758,8100,"Monica,Phoebe",chair
+47,8100,8279,Phoebe,bed
+48,8409,8696,"Monica,Phoebe",
+49,8745,8864,"Monica,Joey,Chandler","bottle,cup,dining table,bowl"
+50,8864,8948,Chandler,"bottle,cup,tie,chair"
+51,8948,9022,Chandler,"bottle,cup,chair"
+52,9022,9086,Chandler,"bottle,cup,chair"
+53,9086,9236,"Ross,Chandler",tie
+54,9236,9327,"Ross,Joey,Chandler","bottle,cup,chair,tie,dining table"
+55,9327,9372,Chandler,bottle
+56,9372,9468,"Monica,Ross,Joey,Chandler","chair,dining table"
+57,9468,9499,"Monica,Joey,Phoebe","bottle,cup,bowl,dining table"
+58,9499,9531,"Ross,Chandler","cup,dining table,bottle,tie"
+59,9531,9605,Ross,"tie,cup"
+60,9605,9650,"Monica,Ross,Rachel,Joey,Phoebe","chair,bottle,cup"
+61,9650,9748,"Rachel,Joey",
+62,9748,10186,Ross,"bottle,cup"
+63,10186,10233,Chandler,"bottle,cup"
+64,10233,10277,Ross,"bottle,cup,tie"
+65,10277,10342,"Monica,Rachel,Phoebe","dining table,bottle,cup,bowl"
+66,10342,10385,Chandler,"bottle,cup"
+67,10385,10464,"Monica,Rachel,Phoebe","bowl,bottle,cup,dining table"
+68,10464,10536,Chandler,"dining table,bottle,cup"
+69,10536,10570,"Monica,Rachel,Phoebe","bowl,bottle,cup,dining table"
+70,10570,10718,Chandler,"bottle,cup"
+71,10746,10825,Chandler,"bottle,cup"
+72,10825,10870,"Monica,Rachel,Phoebe","person,bowl,bottle,cup"
+73,11031,11687,Ross,"tie,book"
+74,11687,11772,Ross,tie
+75,11772,11822,Ross,
+76,11822,11875,Ross,tie
+77,11875,12011,Ross,
+78,12261,12312,Ross,tie
+79,12312,12538,Ross,
+80,12538,12633,Ross,tie
+81,12633,12782,Ross,
+82,12782,12851,Ross,tie
+83,12851,13007,Ross,
+84,13034,13097,Ross,
+85,13237,13293,Ross,tie
+86,13475,13525,Ross,tie
+87,13525,13658,"Ross,Joey",
+88,13863,13935,Ross,tie
+89,13935,14122,"Ross,Joey",tie
+90,14122,14152,"Ross,Joey",
+91,14152,14263,Ross,tie
+92,14263,14289,Joey,
+93,14313,14358,Joey,
+94,14358,14405,Ross,tie
+95,14405,14469,Joey,
+96,14493,14658,Joey,
+97,14658,14903,"Ross,Joey,Chandler",tie
+98,14903,15013,"Ross,Joey",tie
+99,15013,15053,Chandler,
+100,15053,15232,"Ross,Joey",tie
+101,15232,15258,Chandler,
+102,15258,15380,"Ross,Joey",tie
+103,15380,15567,"Ross,Chandler",tie
+104,15567,15602,Joey,
+105,15602,15682,"Ross,Joey",tie
+106,15682,15730,Ross,tie
+107,15730,15800,"Ross,Joey",
+108,15800,15882,Ross,tie
+109,15882,15983,"Ross,Joey",
+110,15983,16006,Ross,tie
+111,16006,16074,Joey,tie
+112,16074,16217,Ross,tie
+113,16217,16305,"Ross,Rachel,Joey",tie
+114,16305,16385,"Ross,Joey",tie
+115,16385,16426,Rachel,
+116,16426,16537,"Ross,Joey",tie
+117,16537,16626,Rachel,tie
+118,16626,16798,"Ross,Rachel,Joey",
+119,16798,16839,Ross,tie
+120,16839,16872,Joey,
+121,16872,16918,"Ross,Joey",tie
+122,16918,17082,"Ross,Joey","tie,dining table,chair,potted plant"
+123,17082,17145,Joey,
+124,17145,17172,Ross,"tie,vase"
+125,17172,17210,Monica,
+126,17210,17304,"Ross,Joey","tie,oven"
+127,17304,17359,"Monica,Ross,Joey","chair,couch,refrigerator,dining table,potted plant"
+128,17359,17592,Monica,
+129,17648,17742,"Monica,Phoebe","potted plant,bed"
+130,17804,17853,Monica,
+131,17853,18012,Phoebe,
+132,18012,18218,Monica,
+133,18218,18258,Phoebe,
+134,18258,18348,Monica,bed
+135,18348,18412,"Monica,Phoebe",bed
+136,18412,18453,Phoebe,
+137,18453,18484,Monica,
+138,18484,18550,"Monica,Phoebe",
+139,18550,18607,"Monica,Phoebe",potted plant
+140,18607,18706,Monica,
+141,18706,18762,Phoebe,potted plant
+142,18762,18792,Phoebe,bed
+143,18792,18859,"Monica,Phoebe","bed,potted plant"
+144,18859,18909,Chandler,
+145,18909,18942,"Joey,Chandler","microwave,couch"
+146,18942,18982,Ross,tie
+147,18982,19083,Chandler,
+148,19083,19194,"Ross,Chandler","tie,chair,potted plant,tv,couch"
+149,19194,19244,Joey,"bottle,microwave,bottle"
+150,19244,19352,Ross,tie
+151,19352,19384,Chandler,chair
+152,19384,19417,Ross,tie
+153,19417,19461,Chandler,chair
+154,19461,19627,Ross,tie
+155,19627,19669,Chandler,
+156,19669,19763,Ross,tie
+157,19763,19790,Joey,"microwave,refrigerator,cup,bowl"
+158,19790,19824,"Ross,Chandler",tie
+159,19824,19882,Joey,bottle
+160,19882,19991,"Ross,Chandler",
+161,19991,20076,Joey,bottle
+162,20076,20133,Ross,tie
+163,20133,20196,"Joey,Chandler","chair,microwave"
+164,20196,20251,Ross,tie
+165,20251,20335,Chandler,
+166,20335,20383,"Ross,Chandler",tie
+167,20383,20478,"Ross,Joey,Chandler","tie,chair"
+168,20653,20717,Joey,bottle
+169,20717,20878,Ross,"tie,chair,tv,microwave"
+170,20878,20965,"Monica,Rachel",
+171,20965,21461,"Monica,Rachel",
+172,21461,21520,Phoebe,
+173,21520,21553,"Monica,Rachel",
+174,21553,21597,Phoebe,
+175,21597,21629,"Monica,Rachel",
+176,21629,21673,Phoebe,
+177,21673,21761,Monica,
+178,21761,21836,Phoebe,
+179,21836,22054,"Monica,Rachel,Phoebe",
+180,22054,22190,"Ross,Joey",couch
+181,22190,22295,"Ross,Joey",couch
+182,22295,22361,"Ross,Joey",couch
+183,22361,22406,"Ross,Joey",couch
+184,22406,22541,"Rachel,Phoebe",chair
+185,22541,22577,"Monica,Ross,Joey","chair,couch"
+186,22577,22770,Phoebe,
+187,22770,22810,"Monica,Rachel",
+188,22810,23029,Phoebe,
+189,23029,23077,"Monica,Rachel",
+190,23077,23202,Phoebe,
+191,23202,23315,"Ross,Rachel,Joey","couch,chair"
+192,23315,23377,Phoebe,
+193,23377,23476,Phoebe,
+194,23617,23668,Chandler,"chair,tie"
+195,23668,23712,"Ross,Joey",
+196,23712,23869,"Ross,Joey,Chandler","couch,tie"
+197,23869,24175,"Ross,Joey",couch
+198,24175,24261,"Joey,Chandler","tie,cup,dining table,couch"
+199,24261,24331,Chandler,"person,tie"
+200,24331,24441,"Ross,Joey","cup,dining table,book,couch"
+201,24441,24528,Chandler,tie
+202,24528,24704,"Ross,Joey","dining table,book,cup,couch"
+203,24704,24752,Chandler,tie
+204,24752,24834,Ross,
+205,24834,24999,Chandler,tie
+206,24999,25060,Ross,
+207,25060,25086,Chandler,tie
+208,25111,25302,Ross,"chair,cup"
+209,25302,25427,"Monica,Phoebe",bed
+210,25427,25476,Phoebe,
+211,25476,25538,Monica,
+212,25538,25770,Phoebe,bed
+213,25770,25864,"Monica,Phoebe",bed
+214,25864,26024,"Monica,Phoebe",
+215,26072,26133,"Monica,Phoebe",
+216,26158,26268,"Monica,Phoebe",
+217,26320,26378,"Monica,Phoebe",
+218,26453,26559,"Monica,Phoebe",
+219,26609,26770,"Monica,Phoebe",
+220,26795,26856,"Monica,Phoebe",
+221,26887,26944,"Monica,Phoebe",
+222,26944,27031,"Monica,Phoebe","bed,vase"
+223,27031,27321,"Monica,Phoebe",
+224,27357,27600,"Monica,Phoebe",
+225,27640,27812,"Monica,Phoebe",
+226,27863,27951,Chandler,tie
+227,27951,28146,Chandler,tie
+228,28201,28252,Chandler,"tv,microwave,book,tie,chair"
+229,28469,28560,Chandler,"dining table,microwave,tie,chair"
+230,28735,28767,Chandler,tie
+231,28803,29125,Chandler,"tie,potted plant"
+232,29125,29208,Joey,
+233,29208,29237,Ross,
+234,29237,29305,Joey,
+235,29305,29359,Ross,
+236,29359,29472,"Ross,Joey",
+237,29472,29655,"Ross,Joey",
+238,29655,29776,"Ross,Joey",
+239,29806,29877,"Ross,Joey",
+240,29877,29941,"Ross,Joey",
+241,29941,30351,"Ross,Joey",
+242,30351,30463,Ross,
+243,30463,30567,Chandler,tie
+244,30567,30616,Ross,
+245,30616,30720,Ross,
+246,30720,30753,Chandler,tie
+247,30753,30830,"Ross,Chandler",
+248,30830,30918,Ross,
+249,30918,30963,Chandler,tie
+250,30963,31075,"Ross,Chandler",
+251,31075,31115,Ross,
+252,31115,31179,Chandler,tie
+253,31179,31263,Ross,
+254,31289,31321,Ross,
+255,31321,31375,Chandler,tie
+256,31375,31494,Ross,
+257,31494,31929,"Ross,Chandler",tie
+258,31929,32064,Rachel,
+259,32064,32098,Monica,
+260,32098,32173,"Ross,Joey,Chandler","dining table,book,oven,tie,chair"
+261,32173,32208,Monica,
+262,32208,32278,Rachel,"potted plant,vase"
+263,32278,32450,"Ross,Joey,Chandler",chair
+264,32450,32489,Monica,chair
+265,32489,32555,"Ross,Rachel,Joey,Chandler","dining table,book,chair,potted plant"
